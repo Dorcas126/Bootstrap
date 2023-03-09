@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Microverse Desktop version project] <a name="about-project">
+# 📖 [Try Bootstrap project] <a name="about-project">
 
-Hello , this is a desktop version portfolio project</a>
+Hello , This is a application built with Bootstrap </a>
 
 This portofolio combines a mobile version portofolio and desktop version portofolio 
 and they are both reponsive.
@@ -43,7 +43,7 @@ CSS
 - *[Linter is used]*
 
 <!-- LIVE DEMO -->
-## [🚀Live Demo]()
+## [🚀Live Demo](https://dorcas126.github.io/Bootstrap/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
