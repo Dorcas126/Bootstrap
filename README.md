@@ -43,7 +43,7 @@ CSS
 - *[Linter is used]*
 
 <!-- LIVE DEMO -->
-## [🚀Live Demo](https://dorcas126.github.io/Bootstrap/)
+## [🚀Live Demo](https://dorcas126.github.io/Bootstrap/) (https://www.loom.com/share/56c4a86e77af4fee93a3236f360c6c26)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
